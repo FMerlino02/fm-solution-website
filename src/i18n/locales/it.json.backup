@@ -1,0 +1,191 @@
+{
+  "nav": {
+    "home": "Home",
+    "services": "Servizi",
+    "aiIntegration": "AI Integration",
+    "about": "Chi Siamo",
+    "contact": "Contatti"
+  },
+  "home": {
+    "hero": {
+      "title1": "Trasformiamo sfide tecniche",
+      "title2": "in",
+      "title3": "valore misurabile",
+      "subtitle1": "Consulenza software e integrazione AI pragmatica per PMI e enterprise.",
+      "subtitle2": "Senza buzzword, con risultati concreti.",
+      "cta1": "Inizia un Progetto",
+      "cta2": "Scopri i Servizi"
+    },
+    "valueProposition": {
+      "heading": "Perché scegliere FM Solution",
+      "subheading": "Esperienza concreta, approccio pragmatico, risultati misurabili",
+      "pragmatism": {
+        "title": "Pragmatismo",
+        "description": "Soluzioni concrete basate su tecnologie consolidate. Niente hype, solo ciò che funziona per il tuo business."
+      },
+      "ownership": {
+        "title": "Proprietà",
+        "description": "Ci assumiamo la responsabilità dei risultati. Il tuo successo è il nostro successo."
+      },
+      "transparency": {
+        "title": "Trasparenza",
+        "description": "Comunicazione chiara, metriche verificabili, aspettative realistiche. Sempre."
+      }
+    },
+    "services": {
+      "preheading": "I Nostri Servizi",
+      "heading": "Come possiamo aiutarti",
+      "subheading": "Dalla consulenza strategica allo sviluppo custom, fino all'integrazione AI",
+      "consulting": {
+        "title": "Consulenza",
+        "description": "Analisi tecniche approfondite e roadmap strategiche per il tuo stack tecnologico.",
+        "cta": "Scopri di più"
+      },
+      "development": {
+        "title": "Sviluppo Custom",
+        "description": "Software su misura, integrazione di sistemi, modernizzazione di legacy code.",
+        "cta": "Scopri di più"
+      },
+      "ai": {
+        "title": "AI Integration",
+        "description": "Integrazione pragmatica di AI nei tuoi processi. ROI verificabile.",
+        "cta": "Scopri di più"
+      },
+      "training": {
+        "title": "Formazione",
+        "description": "Training tecnico per team interni su best practice e nuove tecnologie.",
+        "cta": "Scopri di più"
+      }
+    },
+    "aiSection": {
+      "heading": "AI in azione",
+      "subheading": "Visualizza come trasformiamo i dati grezzi in insight azionabili attraverso pipeline AI intelligenti",
+      "description": "La nostra metodologia AI trasforma dati complessi in decisioni concrete, con pipeline ottimizzate e risultati verificabili."
+    },
+    "stats": {
+      "experience": "Anni di Esperienza",
+      "projects": "Progetti Completati",
+      "clients": "Clienti Soddisfatti",
+      "retention": "Client Retention"
+    },
+    "finalCta": {
+      "heading": "Pronto a trasformare le tue sfide tecniche?",
+      "subheading": "Parliamo del tuo progetto. Consulenza iniziale gratuita.",
+      "cta1": "Contattaci",
+      "cta2": "Scopri i Servizi"
+    }
+  },
+  "notFound": {
+    "title": "Pagina non trovata",
+    "description": "La pagina che stai cercando non esiste o è stata spostata.",
+    "cta": "Torna alla Home"
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "lastUpdated": "Ultimo aggiornamento: 10 Febbraio 2026",
+    "section1": {
+      "title": "1. Informazioni che raccogliamo",
+      "intro": "FM Solution raccoglie informazioni che ci fornisci direttamente quando:",
+      "items": [
+        "Compili il form di contatto",
+        "Invii una richiesta via email",
+        "Prenoti una consulenza",
+        "Interagisci con i nostri servizi"
+      ]
+    },
+    "section2": {
+      "title": "2. Come utilizziamo le informazioni",
+      "intro": "Utilizziamo le informazioni raccolte per:",
+      "items": [
+        "Rispondere alle tue richieste",
+        "Fornire i nostri servizi",
+        "Migliorare la tua esperienza sul sito",
+        "Inviare comunicazioni relative ai servizi richiesti"
+      ]
+    },
+    "section3": {
+      "title": "3. Condivisione delle informazioni",
+      "content": "Non vendiamo, affittiamo o condividiamo le tue informazioni personali con terze parti per scopi di marketing. Potremmo condividere informazioni solo quando richiesto dalla legge o per proteggere i nostri diritti."
+    },
+    "section4": {
+      "title": "4. Sicurezza",
+      "content": "Implementiamo misure di sicurezza appropriate per proteggere le tue informazioni personali da accesso non autorizzato, alterazione, divulgazione o distruzione."
+    },
+    "section5": {
+      "title": "5. I tuoi diritti (GDPR)",
+      "intro": "In conformità con il GDPR, hai diritto a:",
+      "items": [
+        "Accedere ai tuoi dati personali",
+        "Rettificare dati imprecisi",
+        "Richiedere la cancellazione dei dati",
+        "Opporti al trattamento",
+        "Richiedere la portabilità dei dati"
+      ]
+    },
+    "section6": {
+      "title": "6. Cookie",
+      "content": "Utilizziamo cookie essenziali per il funzionamento del sito e cookie analytics per migliorare l'esperienza utente. Puoi gestire le preferenze cookie nelle impostazioni del tuo browser."
+    },
+    "section7": {
+      "title": "7. Modifiche alla Privacy Policy",
+      "content": "Ci riserviamo il diritto di modificare questa privacy policy in qualsiasi momento. Le modifiche saranno pubblicate su questa pagina con data di aggiornamento."
+    },
+    "section8": {
+      "title": "8. Contatti",
+      "intro": "Per domande sulla privacy o per esercitare i tuoi diritti, contattaci:",
+      "email": "Email: privacy@fmsolution.it",
+      "phone": "Tel: +39 012 345 6789"
+    }
+  },
+  "terms": {
+    "title": "Termini di Servizio",
+    "lastUpdated": "Ultimo aggiornamento: 10 Febbraio 2026",
+    "section1": {
+      "title": "1. Accettazione dei Termini",
+      "content": "Utilizzando questo sito e i servizi di FM Solution, accetti questi termini di servizio. Se non accetti questi termini, non utilizzare i nostri servizi."
+    },
+    "section2": {
+      "title": "2. Servizi Offerti",
+      "content": "FM Solution offre servizi di consulenza software, sviluppo custom, integrazione AI, e formazione tecnica. I dettagli specifici di ogni servizio saranno definiti in contratti separati."
+    },
+    "section3": {
+      "title": "3. Proprietà Intellettuale",
+      "content": "Il codice, i deliverable, e la proprietà intellettuale sviluppati per il cliente saranno trasferiti al cliente alla conclusione del progetto e al pagamento completo, salvo diversi accordi contrattuali."
+    },
+    "section4": {
+      "title": "4. Pagamenti",
+      "intro": "I termini di pagamento saranno specificati nei contratti individuali. Generalmente:",
+      "items": [
+        "Acconto del 30% all'inizio del progetto",
+        "Pagamenti intermedi legati a milestone",
+        "Saldo finale alla consegna"
+      ]
+    },
+    "section5": {
+      "title": "5. Garanzie e Responsabilità",
+      "content": "Garantiamo che i servizi saranno forniti con competenza professionale. Tuttavia, non garantiamo risultati specifici di business. La nostra responsabilità è limitata all'ammontare pagato per il servizio specifico."
+    },
+    "section6": {
+      "title": "6. Confidenzialità",
+      "content": "Ci impegniamo a mantenere confidenziali tutte le informazioni sensibili dei clienti. NDA separati possono essere firmati se necessario."
+    },
+    "section7": {
+      "title": "7. Risoluzione del Contratto",
+      "content": "Entrambe le parti possono risolvere il contratto con preavviso scritto di 30 giorni, salvo diverse specifiche contrattuali. I pagamenti per il lavoro già svolto rimangono dovuti."
+    },
+    "section8": {
+      "title": "8. Modifiche ai Termini",
+      "content": "Ci riserviamo il diritto di modificare questi termini. Le modifiche saranno comunicate ai clienti attivi e pubblicate su questa pagina."
+    },
+    "section9": {
+      "title": "9. Legge Applicabile",
+      "content": "Questi termini sono regolati dalla legge italiana. Per controversie, il foro competente è quello di Milano."
+    },
+    "section10": {
+      "title": "10. Contatti",
+      "intro": "Per domande sui termini di servizio, contattaci:",
+      "email": "Email: info@fmsolution.it",
+      "phone": "Tel: +39 012 345 6789"
+    }
+  }
+}

@@ -1,0 +1,571 @@
+{
+  "nav": {
+    "home": "Home",
+    "services": "Servizi",
+    "aiIntegration": "AI Integration",
+    "about": "Chi Siamo",
+    "contact": "Contatti"
+  },
+  "home": {
+    "hero": {
+      "title1": "Trasformiamo sfide tecniche",
+      "title2": "in",
+      "title3": "valore misurabile",
+      "subtitle1": "Consulenza software e integrazione AI pragmatica per PMI e enterprise.",
+      "subtitle2": "Senza buzzword, con risultati concreti.",
+      "cta1": "Inizia un Progetto",
+      "cta2": "Scopri i Servizi"
+    },
+    "valueProposition": {
+      "heading": "Perché scegliere FM Solution",
+      "subheading": "Esperienza concreta, approccio pragmatico, risultati misurabili",
+      "pragmatism": {
+        "title": "Pragmatismo",
+        "description": "Soluzioni concrete basate su tecnologie consolidate. Niente hype, solo ciò che funziona per il tuo business."
+      },
+      "ownership": {
+        "title": "Proprietà",
+        "description": "Ci assumiamo la responsabilità dei risultati. Il tuo successo è il nostro successo."
+      },
+      "transparency": {
+        "title": "Trasparenza",
+        "description": "Comunicazione chiara, metriche verificabili, aspettative realistiche. Sempre."
+      }
+    },
+    "services": {
+      "preheading": "I Nostri Servizi",
+      "heading": "Come possiamo aiutarti",
+      "subheading": "Dalla consulenza strategica allo sviluppo custom, fino all'integrazione AI",
+      "consulting": {
+        "title": "Consulenza",
+        "description": "Analisi tecniche approfondite e roadmap strategiche per il tuo stack tecnologico.",
+        "cta": "Scopri di più"
+      },
+      "development": {
+        "title": "Sviluppo Custom",
+        "description": "Software su misura, integrazione di sistemi, modernizzazione di legacy code.",
+        "cta": "Scopri di più"
+      },
+      "ai": {
+        "title": "AI Integration",
+        "description": "Integrazione pragmatica di AI nei tuoi processi. ROI verificabile.",
+        "cta": "Scopri di più"
+      },
+      "training": {
+        "title": "Formazione",
+        "description": "Training tecnico per team interni su best practice e nuove tecnologie.",
+        "cta": "Scopri di più"
+      }
+    },
+    "aiSection": {
+      "heading": "AI in azione",
+      "subheading": "Visualizza come trasformiamo i dati grezzi in insight azionabili attraverso pipeline AI intelligenti",
+      "description": "La nostra metodologia AI trasforma dati complessi in decisioni concrete, con pipeline ottimizzate e risultati verificabili."
+    },
+    "stats": {
+      "experience": "Anni di Esperienza",
+      "projects": "Progetti Completati",
+      "clients": "Clienti Soddisfatti",
+      "retention": "Client Retention"
+    },
+    "finalCta": {
+      "heading": "Pronto a trasformare le tue sfide tecniche?",
+      "subheading": "Parliamo del tuo progetto. Consulenza iniziale gratuita.",
+      "cta1": "Contattaci",
+      "cta2": "Scopri i Servizi"
+    }
+  },
+  "notFound": {
+    "title": "Pagina non trovata",
+    "description": "La pagina che stai cercando non esiste o è stata spostata.",
+    "cta": "Torna alla Home"
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "lastUpdated": "Ultimo aggiornamento: 10 Febbraio 2026",
+    "section1": {
+      "title": "1. Informazioni che raccogliamo",
+      "intro": "FM Solution raccoglie informazioni che ci fornisci direttamente quando:",
+      "items": [
+        "Compili il form di contatto",
+        "Invii una richiesta via email",
+        "Prenoti una consulenza",
+        "Interagisci con i nostri servizi"
+      ]
+    },
+    "section2": {
+      "title": "2. Come utilizziamo le informazioni",
+      "intro": "Utilizziamo le informazioni raccolte per:",
+      "items": [
+        "Rispondere alle tue richieste",
+        "Fornire i nostri servizi",
+        "Migliorare la tua esperienza sul sito",
+        "Inviare comunicazioni relative ai servizi richiesti"
+      ]
+    },
+    "section3": {
+      "title": "3. Condivisione delle informazioni",
+      "content": "Non vendiamo, affittiamo o condividiamo le tue informazioni personali con terze parti per scopi di marketing. Potremmo condividere informazioni solo quando richiesto dalla legge o per proteggere i nostri diritti."
+    },
+    "section4": {
+      "title": "4. Sicurezza",
+      "content": "Implementiamo misure di sicurezza appropriate per proteggere le tue informazioni personali da accesso non autorizzato, alterazione, divulgazione o distruzione."
+    },
+    "section5": {
+      "title": "5. I tuoi diritti (GDPR)",
+      "intro": "In conformità con il GDPR, hai diritto a:",
+      "items": [
+        "Accedere ai tuoi dati personali",
+        "Rettificare dati imprecisi",
+        "Richiedere la cancellazione dei dati",
+        "Opporti al trattamento",
+        "Richiedere la portabilità dei dati"
+      ]
+    },
+    "section6": {
+      "title": "6. Cookie",
+      "content": "Utilizziamo cookie essenziali per il funzionamento del sito e cookie analytics per migliorare l'esperienza utente. Puoi gestire le preferenze cookie nelle impostazioni del tuo browser."
+    },
+    "section7": {
+      "title": "7. Modifiche alla Privacy Policy",
+      "content": "Ci riserviamo il diritto di modificare questa privacy policy in qualsiasi momento. Le modifiche saranno pubblicate su questa pagina con data di aggiornamento."
+    },
+    "section8": {
+      "title": "8. Contatti",
+      "intro": "Per domande sulla privacy o per esercitare i tuoi diritti, contattaci:",
+      "email": "Email: merlino.enquiries@gmail.com"
+    }
+  },
+  "terms": {
+    "title": "Termini di Servizio",
+    "lastUpdated": "Ultimo aggiornamento: 10 Febbraio 2026",
+    "section1": {
+      "title": "1. Accettazione dei Termini",
+      "content": "Utilizzando questo sito e i servizi di FM Solution, accetti questi termini di servizio. Se non accetti questi termini, non utilizzare i nostri servizi."
+    },
+    "section2": {
+      "title": "2. Servizi Offerti",
+      "content": "FM Solution offre servizi di consulenza software, sviluppo custom, integrazione AI, e formazione tecnica. I dettagli specifici di ogni servizio saranno definiti in contratti separati."
+    },
+    "section3": {
+      "title": "3. Proprietà Intellettuale",
+      "content": "Il codice, i deliverable, e la proprietà intellettuale sviluppati per il cliente saranno trasferiti al cliente alla conclusione del progetto e al pagamento completo, salvo diversi accordi contrattuali."
+    },
+    "section4": {
+      "title": "4. Pagamenti",
+      "intro": "I termini di pagamento saranno specificati nei contratti individuali. Generalmente:",
+      "items": [
+        "Acconto del 30% all'inizio del progetto",
+        "Pagamenti intermedi legati a milestone",
+        "Saldo finale alla consegna"
+      ]
+    },
+    "section5": {
+      "title": "5. Garanzie e Responsabilità",
+      "content": "Garantiamo che i servizi saranno forniti con competenza professionale. Tuttavia, non garantiamo risultati specifici di business. La nostra responsabilità è limitata all'ammontare pagato per il servizio specifico."
+    },
+    "section6": {
+      "title": "6. Confidenzialità",
+      "content": "Ci impegniamo a mantenere confidenziali tutte le informazioni sensibili dei clienti. NDA separati possono essere firmati se necessario."
+    },
+    "section7": {
+      "title": "7. Risoluzione del Contratto",
+      "content": "Entrambe le parti possono risolvere il contratto con preavviso scritto di 30 giorni, salvo diverse specifiche contrattuali. I pagamenti per il lavoro già svolto rimangono dovuti."
+    },
+    "section8": {
+      "title": "8. Modifiche ai Termini",
+      "content": "Ci riserviamo il diritto di modificare questi termini. Le modifiche saranno comunicate ai clienti attivi e pubblicate su questa pagina."
+    },
+    "section9": {
+      "title": "9. Legge Applicabile",
+      "content": "Questi termini sono regolati dalla legge italiana. Per controversie, il foro competente è quello di Milano."
+    },
+    "section10": {
+      "title": "10. Contatti",
+      "intro": "Per domande sui termini di servizio, contattaci:",
+      "email": "Email: merlino.enquiries@gmail.com"
+    }
+  },
+  "about": {
+    "hero": {
+      "preheading": "Chi Siamo",
+      "heading": "Esperti di software e AI con una missione chiara",
+      "subheading": "Trasformare sfide tecniche complesse in valore misurabile per le aziende"
+    },
+    "mission": {
+      "title": "La Nostra Missione",
+      "paragraph1": "Rendere la tecnologia avanzata accessibile e utile per le aziende italiane. Troppo spesso vediamo progetti tecnologici fallire per mancanza di pragmatismo, aspettative irrealistiche, o soluzioni troppo complesse.",
+      "paragraph2": "Noi portiamo un approccio diverso: soluzioni concrete, comunicazione trasparente, focus sui risultati misurabili. Niente buzzword, niente hype. Solo ciò che funziona."
+    },
+    "vision": {
+      "title": "La Nostra Visione",
+      "paragraph1": "Crediamo in un futuro dove l'AI e le tecnologie avanzate sono strumenti pragmatici al servizio del business, non fini a se stessi. Dove le aziende di ogni dimensione possono competere grazie a tecnologia ben implementata.",
+      "paragraph2": "Vogliamo essere il partner tecnologico di riferimento per le aziende che cercano risultati concreti, non consulenti che vendono slide e spariscono."
+    },
+    "values": {
+      "heading": "I nostri valori",
+      "subheading": "I principi che guidano il nostro lavoro ogni giorno",
+      "pragmatism": {
+        "title": "Pragmatismo",
+        "description": "Soluzioni concrete basate su tecnologie consolidate. Niente hype, solo ciò che funziona per il tuo business."
+      },
+      "ownership": {
+        "title": "Proprietà",
+        "description": "Ci assumiamo la responsabilità dei risultati. Il tuo successo è il nostro successo, il tuo problema è il nostro problema."
+      },
+      "transparency": {
+        "title": "Trasparenza",
+        "description": "Comunicazione chiara, aspettative realistiche, reportistica dettagliata. Sempre sai dove siamo e dove stiamo andando."
+      },
+      "quality": {
+        "title": "Qualità",
+        "description": "Non scendiamo a compromessi sulla qualità del codice, dell'architettura, e dell'approccio. Costruiamo per durare."
+      },
+      "collaboration": {
+        "title": "Collaborazione",
+        "description": "Lavoriamo con te, non per te. I migliori risultati vengono dalla collaborazione stretta con i team interni."
+      }
+    },
+    "story": {
+      "heading": "La mia storia",
+      "subheading": "Rivoluzionando la consulenza tech italiana",
+      "paragraph1": {
+        "bold": "Ricordo ancora quel progetto.",
+        "text": "Un sistema che doveva ridurre i tempi di elaborazione del 90%. Il cliente aveva già speso mesi con altri consulenti, ricevendo solo presentazioni PowerPoint e promesse."
+      },
+      "paragraph2": "In tre settimane, ho costruito una pipeline di microservizi che ha superato ogni aspettativa. Non magia—solo ingegneria solida, senza fronzoli.",
+      "paragraph3": {
+        "start": "Questa è",
+        "bold": "FM Solution",
+        "end": ". Niente team giganteschi, poche persone che risolvo problemi complessi con codice che funziona davvero."
+      },
+      "paragraph4": "Mi sono laureato in Ingegneria Informatica alla RHUL, ma la vera scuola è stata sul campo: ottimizzare sistemi real-time, progettare architetture event-driven enterprise, tokenizzare proprietà su blockchain.",
+      "paragraph5": {
+        "start": "FM Solution è dove metto questa expertise al servizio delle aziende italiane.",
+        "bold": "Ascolto, codifico, consegno.",
+        "end": "Nessun intermediario, nessun overhead, solo risultati misurabili."
+      }
+    },
+    "finalCta": {
+      "heading": "Vuoi lavorare con noi?",
+      "subheading": "Parliamo del tuo progetto. La prima consulenza è sempre gratuita.",
+      "cta1": "Contattaci",
+      "cta2": "Scopri i Servizi"
+    },
+    "process": {
+      "heading": "Come lavoriamo",
+      "subheading": "Il nostro processo in 5 step per garantire successo",
+      "step1": {
+        "title": "Discovery",
+        "description": "Ascoltiamo, capiamo il tuo business, i tuoi problemi, i tuoi obiettivi. Facciamo le domande giuste."
+      },
+      "step2": {
+        "title": "Analisi",
+        "description": "Analizziamo in profondità lo stato attuale, identifichiamo opportunità, proponiamo soluzioni concrete."
+      },
+      "step3": {
+        "title": "Proposta",
+        "description": "Presentiamo una roadmap dettagliata con timeline realistiche, costi chiari, e ROI stimato."
+      },
+      "step4": {
+        "title": "Implementazione",
+        "description": "Eseguiamo in modo iterativo, con deliverable frequenti e feedback continuo. Sempre allineati."
+      },
+      "step5": {
+        "title": "Supporto",
+        "description": "Non sparisce dopo il lancio. Supporto continuo, ottimizzazione, e scaling man mano che cresci."
+      }
+    },
+    "certifications": {
+      "heading": "Certificazioni e Partnership",
+      "subheading": "Certificati dalle migliori organizzazioni tecnologiche"
+    }
+  },
+  "services": {
+    "hero": {
+      "preheading": "Servizi",
+      "heading": "Soluzioni complete per ogni esigenza tecnologica",
+      "subheading": "Dalla consulenza strategica allo sviluppo custom, fino all'integrazione AI e formazione del team"
+    },
+    "consulting": {
+      "title": "Consulenza Software",
+      "description": "Analisi tecniche approfondite, architettura software, revisione codice, e roadmap strategiche per guidare le tue decisioni tecnologiche con dati concreti.",
+      "features": [
+        "Audit tecnico completo del tuo stack tecnologico",
+        "Architettura software scalabile e manutenibile",
+        "Roadmap tecnologica con priorità e timeline realistiche",
+        "Code review e best practice per team interni"
+      ],
+      "cta": "Richiedi una Consulenza",
+      "whatYouGet": "Cosa ottieni:",
+      "deliverables": [
+        "Report tecnico dettagliato con analisi approfondita",
+        "Presentazione esecutiva per stakeholder",
+        "Roadmap implementativa step-by-step",
+        "Follow-up e supporto durante l'implementazione"
+      ]
+    },
+    "finalCta": {
+      "heading": "Non trovi il servizio che cerchi?",
+      "subheading": "Ogni progetto è unico. Parliamo delle tue esigenze specifiche e creiamo una soluzione su misura.",
+      "cta1": "Contattaci",
+      "cta2": "Esplora AI Integration"
+    },
+    "development": {
+      "title": "Sviluppo & Tailoring",
+      "description": "Software custom, integrazione di sistemi esistenti, modernizzazione di legacy code, e API development con standard enterprise.",
+      "features": [
+        "Applicazioni web e mobile su misura",
+        "Integrazione con sistemi legacy e terze parti",
+        "Refactoring e modernizzazione codice esistente",
+        "API RESTful e GraphQL enterprise-grade"
+      ],
+      "cta": "Inizia un Progetto",
+      "technologies": {
+        "title": "Tecnologie che utilizziamo:",
+        "backend": "Backend: Node.js, Python, Java, Go",
+        "frontend": "Frontend: React, Vue.js, Next.js, TypeScript",
+        "database": "Database: PostgreSQL, MongoDB, Redis",
+        "cloud": "Cloud: AWS, Azure, Google Cloud",
+        "devops": "DevOps: Docker, Kubernetes, CI/CD pipelines"
+      }
+    },
+    "aiIntegration": {
+      "title": "Integrazione AI",
+      "description": "Integrazione pragmatica di AI nei processi aziendali. Analisi ROI, identificazione use case concreti, e implementazione con metriche verificabili.",
+      "features": [
+        "Assessment dettagliato di opportunità AI nel tuo business",
+        "Implementazione con focus su ROI misurabile",
+        "Integrazione con sistemi e workflow esistenti",
+        "Training di modelli custom e fine-tuning"
+      ],
+      "cta": "Esplora AI Integration",
+      "useCases": {
+        "title": "Use Case Principali:",
+        "case1": "Automazione customer support con chatbot intelligenti",
+        "case2": "Analisi predittiva e forecasting dati business",
+        "case3": "Elaborazione e categorizzazione documenti",
+        "case4": "Sistemi di ricerca e raccomandazione avanzati",
+        "case5": "Computer vision per quality control",
+        "case6": "Sentiment analysis e insights da feedback"
+      }
+    },
+    "training": {
+      "title": "Formazione Tecnica",
+      "description": "Training pratico per team interni su tecnologie moderne, best practice, e metodologie agile. Corsi personalizzati su misura per le tue esigenze.",
+      "features": [
+        "Corsi su tecnologie specifiche (React, Node.js, Python, ecc.)",
+        "Best practice di sviluppo e architettura software",
+        "Metodologie Agile e DevOps",
+        "Workshop pratici con progetti reali"
+      ],
+      "cta": "Richiedi Formazione",
+      "formats": {
+        "title": "Formati disponibili:",
+        "workshop": "Workshop intensivi: 1-3 giorni, hands-on",
+        "courses": "Corsi estesi: 2-4 settimane, part-time",
+        "mentoring": "Mentoring dedicato: 1-on-1 o piccoli gruppi",
+        "onTheJob": "On-the-job training: Affiancamento su progetti reali"
+      }
+    },
+    "comparison": {
+      "heading": "Trova il servizio giusto per te",
+      "subheading": "Confronta le nostre offerte e scegli quella più adatta alle tue esigenze",
+      "table": {
+        "feature": "Caratteristica",
+        "consulting": "Consulenza",
+        "development": "Sviluppo",
+        "aiIntegration": "AI Integration",
+        "training": "Formazione",
+        "duration": {
+          "label": "Durata tipica",
+          "consulting": "2-4 settimane",
+          "development": "2-6 mesi",
+          "ai": "1-3 mesi",
+          "training": "1-4 settimane"
+        },
+        "investment": {
+          "label": "Investimento",
+          "consulting": "€€",
+          "development": "€€€€",
+          "ai": "€€€",
+          "training": "€"
+        },
+        "deliverable": {
+          "label": "Deliverable",
+          "consulting": "Report + Roadmap",
+          "development": "Software",
+          "ai": "Sistema AI",
+          "training": "Competenze"
+        },
+        "support": "Supporto post-progetto"
+      }
+    }
+  },
+  "contact": {
+    "hero": {
+      "preheading": "Contatti",
+      "heading": "Parliamo del tuo progetto",
+      "subheading": "Raccontaci la tua sfida tecnologica. La prima consulenza è sempre gratuita."
+    },
+    "form": {
+      "title": "Invia un messaggio",
+      "name": "Nome *",
+      "email": "Email *",
+      "phone": "Telefono",
+      "company": "Azienda",
+      "message": "Messaggio *",
+      "send": "Invia Messaggio",
+      "success": "Messaggio inviato! Ti risponderemo presto.",
+      "required": "*",
+      "messagePlaceholder": "Raccontaci del tuo progetto e delle tue esigenze...",
+      "submit": "Invia Messaggio",
+      "successMessage": "✓ Messaggio inviato con successo! Ti risponderemo presto.",
+      "sending": "Invio in corso...",
+      "errorMessage": "Si è verificato un errore durante l'invio del messaggio. Riprova o contattaci direttamente via email.",
+      "configError": "Il servizio email non è configurato. Contattaci direttamente via email a merlino.enquiries@gmail.com"
+    },
+    "info": {
+      "title": "Informazioni di contatto",
+      "description": "Preferisci parlare direttamente? Contattaci via email o prenota una call di 30 minuti.",
+      "email": "Email",
+      "responseTime": "Risposte entro 24 ore lavorative",
+      "bookCall": "Prenota una Call",
+      "availability": "Disponibilità",
+      "hours": "Lunedì - Venerdì: 9:00 - 18:00",
+      "guaranteedResponse": "Risposta rapida garantita",
+      "workingMethod": "Rispondiamo a tutte le richieste entro 24 ore lavorative. Lavoriamo principalmente in remoto, con meeting online o in presenza a Milano su richiesta."
+    },
+    "calendly": {
+      "title": "Prenota una call",
+      "subtitle": "Scegli un orario comodo per una consulenza gratuita di 30 minuti",
+      "heading": "Prenota una call",
+      "subheading": "Scegli un orario comodo per una consulenza gratuita di 30 minuti"
+    },
+    "faq": {
+      "heading": "FAQ Contatti",
+      "subheading": "Domande frequenti su come contattarci",
+      "question1": "Quanto tempo ci vuole per ricevere una risposta?",
+      "answer1": "Rispondiamo a tutte le email entro 24 ore lavorative. Per urgenze, contattaci via email specificando la priorità.",
+      "question2": "La prima consulenza è davvero gratuita?",
+      "answer2": "Sì, offriamo sempre una prima consulenza gratuita di 30 minuti per capire le tue esigenze e valutare come possiamo aiutarti.",
+      "question3": "Lavorate con clienti in tutta Italia?",
+      "answer3": "Sì, lavoriamo con clienti in tutta Italia (e anche internazionali). La maggior parte della collaborazione avviene in remoto, con meeting periodici in presenza se necessario."
+    }
+  },
+  "ai": {
+    "hero": {
+      "preheading": "AI Integration",
+      "heading": "Intelligenza Artificiale pragmatica per il tuo business",
+      "subheading": "Identifichiamo opportunità concrete, implementiamo soluzioni verificabili, e misuriamo il ROI. Senza hype, con risultati."
+    },
+    "faq": {
+      "question1": "Quanto tempo ci vuole per integrare l'AI?",
+      "answer1": "Dipende dalla complessità. Un progetto pilota richiede 4-6 settimane, mentre un'implementazione completa può richiedere 2-3 mesi. Lavoriamo in modo iterativo per mostrare risultati tangibili già dalle prime settimane.",
+      "question2": "Quanto costa un progetto di AI integration?",
+      "answer2": "I costi variano in base allo scope e alla complessità. Un assessment iniziale parte da €5.000, mentre progetti completi vanno da €20.000 a €100.000+. Offriamo sempre un preventivo dettagliato dopo l'assessment.",
+      "question3": "Avete bisogno di accesso ai nostri dati sensibili?",
+      "answer3": "Lavoriamo con i più alti standard di sicurezza e conformità GDPR. Possiamo lavorare con dati anonimizzati, in ambiente isolato, o on-premise se necessario. La privacy e sicurezza dei tuoi dati è prioritaria.",
+      "question4": "Che competenze deve avere il nostro team?",
+      "answer4": "Non servono competenze AI specifiche. Ci occupiamo noi della parte tecnica. È utile avere una persona interna che conosca bene i processi da automatizzare e possa collaborare con noi nella fase di requirement.",
+      "question5": "Come misurate il ROI dell'AI?",
+      "answer5": "Definiamo KPI chiari sin dall'inizio: tempo risparmiato, riduzione errori, aumento conversioni, ecc. Monitoriamo le metriche pre e post-implementazione e forniamo report periodici con i risultati misurabili."
+    },
+    "finalCta": {
+      "heading": "Pronto a integrare l'AI nel tuo business?",
+      "subheading": "Iniziamo con un assessment gratuito per identificare le opportunità più promettenti.",
+      "cta1": "Richiedi Assessment",
+      "cta2": "Scopri Altri Servizi"
+    },
+    "useCases": {
+      "heading": "Use case concreti",
+      "subheading": "Dove l'AI può generare valore immediato nel tuo business",
+      "customerSupport": {
+        "title": "Customer Support Automation",
+        "description": "Chatbot intelligenti che gestiscono richieste comuni 24/7, riducendo i tempi di risposta e liberando il team per casi complessi."
+      },
+      "documentProcessing": {
+        "title": "Document Processing",
+        "description": "Estrazione automatica di dati da documenti, classificazione, e archiviazione intelligente. Riduci ore di lavoro manuale."
+      },
+      "predictiveAnalytics": {
+        "title": "Predictive Analytics",
+        "description": "Forecasting vendite, demand planning, e analisi predittiva per decisioni basate su dati concreti."
+      },
+      "sentimentAnalysis": {
+        "title": "Sentiment Analysis",
+        "description": "Analisi automatica di feedback clienti, review, e social media per insight azionabili in tempo reale."
+      },
+      "computerVision": {
+        "title": "Computer Vision",
+        "description": "Quality control automatico, riconoscimento prodotti, e analisi visiva per manufacturing e retail."
+      },
+      "recommendationSystems": {
+        "title": "Recommendation Systems",
+        "description": "Sistemi di raccomandazione personalizzati per e-commerce, content platform, e servizi digitali."
+      }
+    },
+    "faqSection": {
+      "heading": "Domande frequenti",
+      "subheading": "Tutto quello che devi sapere sulla nostra AI integration"
+    },
+    "methodology": {
+      "heading": "La nostra metodologia AI",
+      "subheading": "Un processo in 3 fasi per garantire successo e ROI misurabile",
+      "phase1": {
+        "title": "Assessment",
+        "description": "Analisi approfondita dei processi aziendali per identificare dove l'AI può generare valore reale.",
+        "item1": "Workshop con stakeholder",
+        "item2": "Analisi dati e infrastruttura",
+        "item3": "Identificazione use case",
+        "item4": "Stima ROI e prioritizzazione",
+        "timeline": "Timeline: 2-3 settimane"
+      },
+      "phase2": {
+        "title": "Proof of Concept",
+        "description": "Implementazione rapida di un PoC per validare l'approccio e dimostrare valore concreto prima dell'investimento completo.",
+        "item1": "Sviluppo PoC su use case prioritario",
+        "item2": "Testing con utenti reali",
+        "item3": "Misurazione metriche di successo",
+        "item4": "Raccolta feedback e iterazione",
+        "timeline": "Timeline: 3-5 settimane"
+      },
+      "phase3": {
+        "title": "Production & Scale",
+        "description": "Deployment in produzione con monitoraggio continuo, ottimizzazione, e scaling graduale su tutta l'organizzazione.",
+        "item1": "Deployment in produzione",
+        "item2": "Monitoraggio e ottimizzazione",
+        "item3": "Training del team interno",
+        "item4": "Scaling su altri use case",
+        "timeline": "Timeline: 4-8 settimane"
+      }
+    }
+  },
+  "footer": {
+    "tagline": "Sviluppo software su misura per PMI italiane",
+    "company": {
+      "title": "Azienda",
+      "about": "Chi Siamo",
+      "services": "Servizi",
+      "contact": "Contatti"
+    },
+    "services": {
+      "title": "Servizi",
+      "development": "Sviluppo Software",
+      "aiIntegration": "AI Integration",
+      "training": "Formazione",
+      "consulting": "Consulenza"
+    },
+    "legal": {
+      "title": "Legale",
+      "privacy": "Privacy Policy",
+      "terms": "Termini di Servizio"
+    },
+    "contact": {
+      "title": "Contatti",
+      "email": "Email",
+      "schedule": "Prenota una Call"
+    },
+    "copyright": "© 2026 FM Solution. Tutti i diritti riservati."
+  }
+}
