@@ -60,7 +60,29 @@
     "aiSection": {
       "heading": "AI in azione",
       "subheading": "Visualizza come trasformiamo i dati grezzi in insight azionabili attraverso pipeline AI intelligenti",
-      "description": "La nostra metodologia AI trasforma dati complessi in decisioni concrete, con pipeline ottimizzate e risultati verificabili."
+      "description": "La nostra metodologia AI trasforma dati complessi in decisioni concrete, con pipeline ottimizzate e risultati verificabili.",
+      "pipeline": {
+        "stage1": {
+          "label": "Dati Grezzi",
+          "description": "Raccolta e importazione dei dati non elaborati"
+        },
+        "stage2": {
+          "label": "Preprocessing",
+          "description": "Pulizia e preparazione dei dati per l'analisi"
+        },
+        "stage3": {
+          "label": "Modello AI",
+          "description": "Elaborazione attraverso algoritmi di machine learning"
+        },
+        "stage4": {
+          "label": "Validazione",
+          "description": "Verifica della qualità e accuratezza dei risultati"
+        },
+        "stage5": {
+          "label": "Insight",
+          "description": "Generazione di conclusioni azionabili per il business"
+        }
+      }
     },
     "stats": {
       "experience": "Anni di Esperienza",

@@ -60,7 +60,29 @@
     "aiSection": {
       "heading": "AI in action",
       "subheading": "See how we transform raw data into actionable insights through intelligent AI pipelines",
-      "description": "Our AI methodology transforms complex data into concrete decisions, with optimized pipelines and verifiable results."
+      "description": "Our AI methodology transforms complex data into concrete decisions, with optimized pipelines and verifiable results.",
+      "pipeline": {
+        "stage1": {
+          "label": "Raw Data",
+          "description": "Collection and import of unprocessed data"
+        },
+        "stage2": {
+          "label": "Preprocessing",
+          "description": "Data cleaning and preparation for analysis"
+        },
+        "stage3": {
+          "label": "AI Model",
+          "description": "Processing through machine learning algorithms"
+        },
+        "stage4": {
+          "label": "Validation",
+          "description": "Quality and accuracy verification of results"
+        },
+        "stage5": {
+          "label": "Insights",
+          "description": "Generation of actionable business conclusions"
+        }
+      }
     },
     "stats": {
       "experience": "Years of Experience",

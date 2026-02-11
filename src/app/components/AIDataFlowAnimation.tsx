@@ -1,4 +1,5 @@
 import { useEffect, useRef, useState } from 'react';
+import { useTranslation } from 'react-i18next';
 
 interface PipelineStage {
   label: string;
@@ -7,37 +8,38 @@ interface PipelineStage {
 }
 
 export const AIDataFlowAnimation = () => {
+  const { t } = useTranslation();
   const canvasRef = useRef<HTMLCanvasElement>(null);
   const [currentStage, setCurrentStage] = useState(0);
   const animationIdRef = useRef<number>();
   const stageTimeRef = useRef<number>(0);
 
-  // Define pipeline stages in Italian
+  // Define pipeline stages with translations
   const stages: PipelineStage[] = [
     {
-      label: 'Dati Grezzi',
+      label: t('home.aiSection.pipeline.stage1.label'),
       icon: '1',
-      description: 'Raccolta e importazione dei dati non elaborati'
+      description: t('home.aiSection.pipeline.stage1.description')
     },
     {
-      label: 'Preprocessing',
+      label: t('home.aiSection.pipeline.stage2.label'),
       icon: '2',
-      description: 'Pulizia e preparazione dei dati per l\'analisi'
+      description: t('home.aiSection.pipeline.stage2.description')
     },
     {
-      label: 'Modello AI',
+      label: t('home.aiSection.pipeline.stage3.label'),
       icon: '3',
-      description: 'Elaborazione attraverso algoritmi di machine learning'
+      description: t('home.aiSection.pipeline.stage3.description')
     },
     {
-      label: 'Validazione',
+      label: t('home.aiSection.pipeline.stage4.label'),
       icon: '4',
-      description: 'Verifica della qualità e accuratezza dei risultati'
+      description: t('home.aiSection.pipeline.stage4.description')
     },
     {
-      label: 'Insight',
+      label: t('home.aiSection.pipeline.stage5.label'),
       icon: '5',
-      description: 'Generazione di conclusioni azionabili per il business'
+      description: t('home.aiSection.pipeline.stage5.description')
     },
   ];
 
