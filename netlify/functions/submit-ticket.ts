@@ -1,5 +1,6 @@
 import { Handler, HandlerEvent } from '@netlify/functions';
 import * as multipart from 'lambda-multipart-parser';
+import FormData from 'form-data';
 
 // Generate a random ticket ID
 const generateTicketId = (): string => {
@@ -118,16 +119,23 @@ export const handler: Handler = async (event: HandlerEvent) => {
 
     // Attach images if any
     const imageArray = Array.isArray(images) ? images : [images];
-    imageArray.forEach((image: any, index: number) => {
+    let fileIndex = 0;
+    imageArray.forEach((image: any) => {
       if (image && image.content) {
-        const blob = new Blob([image.content], { type: image.contentType });
-        formData.append(`file${index}`, blob, image.filename);
+        // Convert buffer to proper format for Discord
+        const buffer = Buffer.from(image.content);
+        formData.append(`files[${fileIndex}]`, buffer, {
+          filename: image.filename,
+          contentType: image.contentType,
+        });
+        fileIndex++;
       }
     });
 
     // Send to Discord webhook
     const discordResponse = await fetch(webhookUrl, {
       method: 'POST',
+      headers: formData.getHeaders(),
       body: formData,
     });
 
