@@ -3,6 +3,7 @@ export { Services } from './Services';
 export { AIIntegration } from './AIIntegration';
 export { About } from './About';
 export { Contact } from './Contact';
+export { Support } from './Support';
 export { Privacy } from './Privacy';
 export { Terms } from './Terms';
 export { NotFound } from './NotFound';
